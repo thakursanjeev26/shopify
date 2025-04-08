@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3000/products';
+const BASE_URL = 'https://shopify-backend-ifdc.onrender.com/products';
 
 const ProductService = {
  
